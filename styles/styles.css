@@ -1,0 +1,25 @@
+.rounded-img {
+  width: 45%;
+  border-radius: 20%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+  padding: 0.4em;
+  margin-bottom: 0.5em;
+}
+.round-img {
+  width: 60%;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+  margin-bottom: 0.5em;
+}
+.text-shadows {
+  font: 0.2em Cascadia Mono, sans-serif;
+  font-size: large;
+  color: #ffffff;
+  text-shadow: 1px 5px 5px #264cb4;
+}
+.text-shadow2 {
+  font: 0.2em Cascadia Mono, sans-serif;
+  font-size: large;
+  color: #ffffff;
+  text-shadow: 2px 5px 10px #264cb4;
+}
